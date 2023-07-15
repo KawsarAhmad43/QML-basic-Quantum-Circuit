@@ -18,7 +18,7 @@ Quantum Machine Learning is an interdisciplinary field that aims to harness the 
 
 ## 📝 Code Description:
 
-The code in this repository, created by [Your Name](https://github.com/KawsarAhmad43), demonstrates a simple quantum circuit that encodes classical data '0' into a quantum state using the Qiskit library. The purpose of the code is to showcase the basic process of quantum data representation and simulation in QML. It initializes a quantum circuit, encodes classical data, executes the circuit on a simulator backend, and retrieves the resulting statevector.
+The code in this repository, created by [Kawsar Ahmad](https://github.com/KawsarAhmad43), demonstrates a simple quantum circuit that encodes classical data '0' into a quantum state using the Qiskit library. The purpose of the code is to showcase the basic process of quantum data representation and simulation in QML. It initializes a quantum circuit, encodes classical data, executes the circuit on a simulator backend, and retrieves the resulting statevector.
 
 ## 💻 Code Usage:
 
